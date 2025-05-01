@@ -1,7 +1,8 @@
 Data-Jobs-Insight-Analytics
-🧠 Intelligent Job Analytics – Data Analyst Job Trends & Insights (2025)
-📊 Deskripsi:
 
+🧠 Intelligent Job Analytics – Data Analyst Job Trends & Insights (2025)
+
+📊 Deskripsi:
 Repositori ini menyediakan analisis lengkap terhadap dataset lowongan kerja posisi Data Analyst dan sejenisnya dari berbagai kota dan perusahaan pada tahun 2025. Analisis dilakukan menggunakan Python dalam Jupyter Notebook untuk mengungkap pola, tren, dan insight yang dapat membantu pencari kerja, recruiter, dan analis pasar tenaga kerja.
 
 🔍 Analisis Utama:
