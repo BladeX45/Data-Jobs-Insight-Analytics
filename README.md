@@ -18,8 +18,6 @@ Repositori ini menyediakan analisis lengkap terhadap dataset lowongan kerja posi
 
 🧠 Deteksi Skill Populer – Keterampilan teknis yang paling banyak disebutkan (Python, SQL, Tableau, dll).
 
-🌐 Platform Sumber – Situs mana yang paling banyak menyediakan postingan.
-
 📊 Analisis Sentimen Deskripsi – Tone umum dari deskripsi lowongan.
 
 🗂️ Siap Dikembangkan – Untuk analisis lanjutan: NLP, klasifikasi, prediksi, dll.
